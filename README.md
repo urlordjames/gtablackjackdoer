@@ -3,7 +3,7 @@ it solves blackjack for you, need I say more?
 
 simply the many dependencies and you just may have a slow and impractical blackjack solver
 
-#how does it work?
+# how does it work?
 that's a good question
 ~~it doesn't~~
 it uses mss to take a screenshot of the screen which is cropped by opencv then processed by Tesseract OCR
