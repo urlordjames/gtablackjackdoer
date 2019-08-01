@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+audio/*.mp3
+screenshot.png
+cropped.png
