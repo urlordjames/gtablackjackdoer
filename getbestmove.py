@@ -45,3 +45,9 @@ def playerscale(number):
 
 def dealerscale(number):
     return number - 2
+
+if __name__ == "__main__":
+    while True:
+        playernum = int(input("playernum\n"))
+        dealernum = int(input("dealernum\n"))
+        print(getmove(playernum, dealernum))
